@@ -1,8 +1,8 @@
 " Vim color file
 " Maintainer:  mdelliot
-" Last Change: $Date: 2005-09-23 07:39:38 -0700 (Fri, 23 Sep 2005) $
-" Revsision:   $Revision: 37 $
-" Version:     0.1
+" Last Change: $Date: 2005-09-23 08:53:22 -0700 (Fri, 23 Sep 2005) $
+" Revsision:   $Revision: 38 $
+" Version:     0.2
 " Info:        Adobe theme, easy on eyes.
 "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -73,12 +73,12 @@ hi Comment      guifg=white gui=italic ctermfg=darkgray
 hi Statement    guifg=orange4 gui=none ctermfg=brown
 hi Type         guifg=#22229a gui=none ctermfg=lightblue
 hi String       guifg=#005522 ctermfg=darkgreen
-hi PreProc      guifg=#0077ff ctermfg=darkcyan
-hi Special      guifg=#aa22ff ctermfg=darkmagenta
-hi Constant     guifg=red3 ctermfg=red
-hi Identifier   guifg=darkblue ctermfg=darkgreen
+hi PreProc      guifg=#0066ff ctermfg=darkcyan
+hi Special      guifg=purple3 ctermfg=darkmagenta
+hi Constant     guifg=red4 ctermfg=darkred
+hi Identifier   guifg=red ctermfg=red
 hi Function     guifg=darkblue gui=bold ctermfg=lightblue
-hi Underlined   guifg=Yellow
+hi Underlined   guifg=yellow ctermfg=yellow
 
 " OLD ATTEMPTS
 "hi Normal guibg=#b0b097 ctermbg=black
