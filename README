@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1365
+
+Great for many programming languages, especially Python.  Also cursory testing of bash, perl, html, vim, java, c++, moin, and mutt. Includes console coloring to match GUI colors (for tested cases, please let me know of ones I missed).
+
+More details in my blog article: http://micahelliott.com/2008/12/editor-color-scheme-philosophy
